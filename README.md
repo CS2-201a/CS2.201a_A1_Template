@@ -16,7 +16,7 @@ This assignment is to give you a chance to brush up on your C programming basics
 The evaluation for the first two questions will be automated, hence, make sure that your solution files (`q1.c`, `q2.c`, `q3_report.pdf`) strictly follow this directory structure.
 
 ```
-ROLLNUMBER_
+c-programming-basics-a1_ROLLNUMBER
 ├── c_progs
 │   ├── q1.c
 │   ├── q2.c
